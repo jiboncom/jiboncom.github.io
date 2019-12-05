@@ -1,0 +1,144 @@
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css">
+
+	<style type="text/css">
+		.half {
+			float: left;
+			width: 50%;
+
+		}
+		.row:after {
+		  content: "";
+		  display: table;
+		  clear: both;
+		}
+
+		.street {
+			position: relative;
+			display: block;
+			width: 100%;
+			height: 200px;
+			background-color: #0066FF;
+			overflow: hidden;
+		}
+		.street .lane {
+			margin: 5px 0 5px 0;
+			position: relative;
+			height: 50px;
+			background-color: #000000;
+		}
+
+		.street .veh {
+			text-align: center;
+			vertical-align: middle;
+			position: absolute;
+			top: 4px;
+			left: -10%;
+			height: 42px;
+		}
+
+		.street .car {background-color: #FF00FF; width: 50px;}
+		.street .bus {background-color: #0F0; width: 130px;}
+	</style>
+	<script type="text/javascript"
+	  src="http://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+	</script>
+	<script type="text/x-mathjax-config">
+ 	 MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+	</script>
+
+	<div class="row">
+		<div class="half">
+			<h3>Traffic controls</h3>
+			
+			<div id="traffic_controller">
+		      <input type="radio" id="lowTraffic" name="trafficLevel" checked="checked" value="lowTraffic">
+		      <label for="lowTraffic">Low Traffic</label>
+		 
+		      <input type="radio" id="rushHour" name="trafficLevel" value="rushHour">
+		      <label for="rushHour">Rush Hour</label>
+			</div>
+
+			<p>
+			  <label for="amount">Price of fuel:</label>
+			  <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+			  <input type="text" id="bus_share" readonly style="border:0; color:#f6931f; font-weight:bold;">
+			</p>
+			 
+			<div id="slider"></div>
+		</div>
+
+		<div class="half">
+			<h3>Explanation</h3>
+			Assume people may only commute to work by bus or car. The probability of people choosing to go by car depends on the fuel price. Even more, we know 	
+			<h2> $P(M=car)=\frac{1}{1+e^{\beta_{f}*P_{fuel}}}$ </h2>
+		</div>
+		
+	</div>
+	
+	<div class="street">
+		<div class="lane" id="lane1"></div>
+		<div class="lane" id="lane2"></div>
+	</div>
+
+	<script type="text/javascript">
+		bus_share = 0.3
+		function addVehicle() {
+			p = Math.random()
+			veh = $( '<div class="veh bus">Bus</div>' )
+			if (p > bus_share ) {
+				veh = $( '<div class="veh car">Car</div>' )	
+			}
+			
+			p = Math.random()
+			if (p > 0.5) {
+				veh.appendTo( "#lane1" );
+			} else {
+				veh.appendTo( "#lane2" );	
+			}
+			
+			veh.animate( { "left": "+=110%" }, 3000, removeVehicle );
+		}
+
+		function moveVehicle(){
+			a = $('#lane1').children()[0]
+			$('#auto1').animate( { "left": "+=110%" }, 3000, removeVehicle );
+		}
+
+		function removeVehicle() {
+			$(this).remove();
+		}
+
+		$( "#traffic_controller" ).buttonset().mouseup(
+			function () {
+				// Kill the previous loop that adds vehicles to the street
+				clearInterval(beginTraffic)
+
+				// Set a new loop with a different timer than before (This is actually inverted!)
+				if ($(this).find(':checked')[0].value == 'lowTraffic') {
+					beginTraffic = setInterval(addVehicle, 300)
+				}
+				else {
+					beginTraffic = setInterval(addVehicle, 900)
+				}
+			}
+		);
+
+		$( "#slider" ).slider({
+		  value:100,
+		  min: 0,
+		  max: 500,
+		  step: 50,
+		  slide: function( event, ui ) {
+		  	bus_share = ui.value/500
+		    $( "#amount" ).val( "$" + ui.value );
+		    $( "#bus_share" ).val(  bus_share );
+		  }
+		});
+
+		$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ) );
+		
+		// Keep the Interval ID to stop traffic if necessary
+		beginTraffic = setInterval(addVehicle, 900)
+	</script>
