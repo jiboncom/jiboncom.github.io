@@ -2,7 +2,7 @@
 permalink: /traffic/
 title: "Traffic Control"
 ---
-<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.0/themes/smoothness/jquery-ui.css">
 
@@ -64,11 +64,16 @@ title: "Traffic Control"
 		      <label for="rushHour">Rush Hour</label>
 			</div>
 
-			<p>
-			  <label for="amount">Price of fuel:</label>
-			  <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
-			  <input type="text" id="bus_share" readonly style="border:0; color:#f6931f; font-weight:bold;">
-			</p>
+			<div class="row">
+				<div class="half">
+				  <label for="amount">Price of fuel:</label>
+				  <input type="text" id="amount" readonly style="border:0; color:#f6931f; font-weight:bold;">
+				</div>	
+				<div class="half">
+					<label for="bus_share">Bus Market share:</label>
+					<input type="text" id="bus_share" readonly style="border:0; color:#f6931f; font-weight:bold;">
+				</div>
+			</div>
 			 
 			<div id="slider"></div>
 		</div>
@@ -137,7 +142,7 @@ title: "Traffic Control"
 		  slide: function( event, ui ) {
 		  	bus_share = ui.value/500
 		    $( "#amount" ).val( "$" + ui.value );
-		    $( "#bus_share" ).val(  bus_share );
+		    $( "#bus_share" ).val(  bus_share*100 + '%' );
 		  }
 		});
 
