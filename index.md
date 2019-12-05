@@ -10,7 +10,7 @@ classes: wide
 Here you will find stuff about my research and coding experiments on subjects like Economics, Politics, Data Science, Technology and Cities.
 
 ## Experiments
-- Simple Traffic Simulator [Link](https://jiboncom.github.io/traffic/)<br><i>Simple mockup of an interactive traffic simulator with full underlying models behind it.</i>
+- Simple Traffic Simulator [Link](https://jiboncom.github.io/traffic/)<br><i>Simple mockup of an interactive traffic simulator with full underlying models behind it and Latex equations enabled.</i>
 - Open Analysis of the Chilean National Socio-Economic Characterization Survey (CASEN) [_In Spanish_] [Link](https://colab.research.google.com/drive/19n_sshrNpRf9uxvSJOADMxfGmBkRZyGt#scrollTo=o52yuIhWeaPZ)<br><i>An open Notebook where anyone can edit and code and run their own analysis of the data for the rest to view.</i>
 
 ## Research
