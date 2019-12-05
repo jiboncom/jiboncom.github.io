@@ -147,6 +147,7 @@ title: "Traffic Control"
 		});
 
 		$( "#amount" ).val( "$" + $( "#slider" ).slider( "value" ) );
+		$( "#bus_share" ).val(  ui.value/5 + '%' );
 		
 		// Keep the Interval ID to stop traffic if necessary
 		beginTraffic = setInterval(addVehicle, 900)
