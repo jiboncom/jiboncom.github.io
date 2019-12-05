@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Javier Boncompte G."
   avatar : "/assets/images/jiboncom_profile.png"
-  bio    : "Engineer and wannabe Economist."
+  bio    : "Engineer & wannabe Economist."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
