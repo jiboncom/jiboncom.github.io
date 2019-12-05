@@ -53,7 +53,7 @@ plugins:
 author:
   name   : "Javier Boncompte G."
   avatar : "/assets/images/jiboncom_profile.png"
-  bio    : ":cl::cl::cl:<br>Engineer & wannabe Economist"
+  bio    : "Engineer & wannabe Economist"
   location: "London, United Kingdom"
   links:
     - label: "Website"
