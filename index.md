@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+classes: wide
 ---
 
 Here you will find stuff about my research and coding experiments on subjects like Economics, Politics, Data Science, Technology and Cities.
