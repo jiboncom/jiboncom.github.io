@@ -56,15 +56,18 @@ author:
   bio    : "Engineer & Economist wannabe"
   location: "London, United Kingdom"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "jiboncom at Gmail.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "#"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jiboncom"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jiboncom"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
 
 footer:
   links:
