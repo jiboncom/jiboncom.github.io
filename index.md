@@ -4,7 +4,8 @@ layout: single
 author_profile: true
 classes: wide
 ---
-Here you will find stuff about my research and coding on subjects like Economics, Politics, Data Science, Technology and Cities.
+I'm Javier Boncompte Guarda and I love working with data to understand social and individual behaviour. I'm now studying an MSc in Economics at University College London and previously got an
+MSc in Systems Engineer from Pontificia Universidad Catolica (Chile). My experience concentrates on Urban Dynamics and Customer & Voter Research.
 
 ## Coding
 - GeoJson Chilean Census Map by "Manzanas" [\[Link\]](https://github.com/jiboncom/chile_geojson)<br><i>Undocumented. The original maps used by the Chilean Statistics Office are in proprietary Shapefile format. These are the same maps in an open source format (GeoJson). Useful for web aplications.</i>
