@@ -4,8 +4,8 @@ layout: single
 author_profile: true
 classes: wide
 ---
-I'm Javier Boncompte Guarda and I love working with data to understand social and individual behaviour. I'm now studying an MSc in Economics at [University College London](https://www.ucl.ac.uk/economics/) and previously got an
-MSc in Systems Engineer from [Pontificia Universidad Catolica (Chile)](www.ing.puc.cl). My experience concentrates on Mechanism Design, Urban Dynamics and Customer & Voter Research. **Email:** jiboncom at gmail.com || **Full CV:** [Linkedin](https://www.linkedin.com/in/jiboncom/) 
+I'm Javier Boncompte Guarda and I love working with data to understand social and individual behaviour. I'm now studying a MSc in Economics at [University College London](https://www.ucl.ac.uk/economics/) and previously got an
+MSc in Systems Engineer from [Pontificia Universidad Catolica](www.ing.puc.cl) in Chile. My experience concentrates on Mechanism Design, Urban Dynamics and Customer & Voter Research. **Email:** jiboncom at gmail.com || **Full CV:** [Linkedin](https://www.linkedin.com/in/jiboncom/) 
 
 ## Coding
 - [ganemos.cl](https://ganemos.cl)<br><i>First online business intelligence platform in Chile for political campaigns to optimise and prioritise their targeting efforts and scarce resources using BigData. Written mainly in Python and HTML5, we provided probabilistic estimates of electoral behaviour through a [Ecological Inference](https://www.pnas.org/content/96/19/10578) model with multi-level data.</i>
