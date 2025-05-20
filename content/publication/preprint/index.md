@@ -2,7 +2,7 @@
 title: "Product reformulation with endogenous unobservables: Evidence from the UK Soft Drinks Industry Levy"
 authors:
 - Javier Boncompte
-date: "2019-04-07T00:00:00Z"
+date: "2025-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,9 +28,9 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  #url: http://example.org
 url_pdf: http://arxiv.org/pdf/1512.04133v1
+#- name: Custom Link
+  #url: http://example.org
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
 #url_poster: '#'
