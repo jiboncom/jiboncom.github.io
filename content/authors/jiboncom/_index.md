@@ -3,7 +3,7 @@
 title: Javier Boncompte
 
 # Name pronunciation (optional)
-name_pronunciation: Javier Boncompte
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Javier
@@ -33,32 +33,29 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:javier.boncompte.19@ucl.ac.uk'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/jiboncom
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jiboncom
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/jiboncom/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
   - Product competition
   - Firm dynamics 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD Economics
+    institution: Univeristy College London
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -162,4 +159,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+PhD candidate at University College London. My research interests lie in Industrial Organization and Applied Economics, with a focus on studying how firms compete in the product space and their growth dynamics. I am affiliated with the Centre for Microdata Methods and Practice (CEMMAP) at the Institute for Fiscal Studies (IFS).
