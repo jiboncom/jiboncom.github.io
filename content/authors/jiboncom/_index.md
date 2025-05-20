@@ -47,8 +47,8 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Product competition
-  - Firm dynamics 
+  - Competition dynamics
+  - Firm behaviour
 
 education:
   - area: PhD(c) Economics 
@@ -107,5 +107,7 @@ languages:
 ---
 
 ## Job Market Candidate 2025/26
+
+[JMP](mailto:javier.boncompte.19@ucl.ac.uk) | [javier.boncompte.19 at ucl.ac.uk](mailto:javier.boncompte.19@ucl.ac.uk) 
 
 PhD candidate at University College London. My research interests lie in Industrial Organization and Applied Economics, with a focus on studying how firms compete in the product space and their growth dynamics. I am affiliated with the Centre for Microdata Methods and Practice (CEMMAP) at the Institute for Fiscal Studies (IFS).
