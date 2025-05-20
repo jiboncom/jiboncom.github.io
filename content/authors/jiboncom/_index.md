@@ -53,7 +53,6 @@ interests:
 education:
   - area: PhD(c) Economics 
     institution: University College London - United Kingdom
-    year: 2025*
   - area: MSc in Economics
     institution: University College London - United Kingdom
   - area: MSc in Systems Engineering

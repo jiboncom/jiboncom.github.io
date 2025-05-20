@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Javier Boncompte - Job Market Candidate 2025/26"
 date: 2025-05-20
 type: landing
 
@@ -18,7 +18,6 @@ sections:
       button:
         text: Download CV
         url: uploads/resume.pdf
-      button:
         text: JMP
         url: uploads/resume.pdf
     design:
