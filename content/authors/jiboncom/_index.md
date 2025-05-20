@@ -52,9 +52,9 @@ interests:
 
 education:
   - area: PhD(c) Economics 
-    institution: University College London - United Kingdom
+    institution: University College London - UK
   - area: MSc in Economics
-    institution: University College London - United Kingdom
+    institution: University College London - UK
   - area: MSc in Systems Engineering
     institution: Pontificia Universidad Catolica - Chile
   - area: BSc in Transport Engineering
