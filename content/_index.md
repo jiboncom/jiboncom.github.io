@@ -15,7 +15,7 @@ sections:
       username: jiboncom
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
+      buttons:
         text: Download CV
         url: uploads/resume.pdf
         text: JMP
