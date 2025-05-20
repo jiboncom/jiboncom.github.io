@@ -10,8 +10,8 @@ first_name: Javier
 last_name: Boncompte
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -51,36 +51,15 @@ interests:
   - Firm dynamics 
 
 education:
-  - area: PhD Economics
-    institution: Univeristy College London
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: PhD(c) Economics 
+    institution: University College London - United Kingdom
+    year: 2025*
+  - area: MSc in Economics
+    institution: University College London - United Kingdom
+  - area: MSc in Systems Engineering
+    institution: Pontificia Universidad Catolica - Chile
+  - area: BSc in Transport Engineering
+    institution: Pontificia Universidad Catolica - Chile
 
 
 # Skills
