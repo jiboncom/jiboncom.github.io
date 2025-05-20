@@ -35,12 +35,12 @@ profiles:
   - icon: at-symbol
     url: 'mailto:javier.boncompte.19@ucl.ac.uk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/jiboncom
   - icon: brands/github
     url: https://github.com/jiboncom
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jiboncom/
+  #- icon: brands/x
+  #  url: https://twitter.com/jiboncom
   #- icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   #- icon: academicons/orcid
