@@ -61,40 +61,6 @@ education:
     institution: Pontificia Universidad Catolica - Chile
 
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
 languages:
   - name: English
     percent: 100
@@ -108,6 +74,7 @@ languages:
 
 ## Job Market Candidate 2025/26
 
-[JMP](mailto:javier.boncompte.19@ucl.ac.uk) | [javier.boncompte.19 at ucl.ac.uk](mailto:javier.boncompte.19@ucl.ac.uk) 
+% [JMP](mailto:javier.boncompte.19@ucl.ac.uk) | [javier.boncompte.19 at ucl.ac.uk](mailto:javier.boncompte.19@ucl.ac.uk) 
+[CV](https://jiboncom.github.io/uploads/Boncompte-resume.pdf) | [javier.boncompte.19 at ucl.ac.uk](mailto:javier.boncompte.19@ucl.ac.uk) 
 
 PhD candidate at University College London. My research interests lie in Industrial Organization and Applied Economics, with a focus on studying how firms compete in the product space and their growth dynamics. I am affiliated with the Centre for Microdata Methods and Practice (CEMMAP) at the Institute for Fiscal Studies (IFS).

@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: JMP
-        url: uploads/resume.pdf
+        text: CV
+        url: uploads/Boncompte-resume.pdf
     design:
       css_class: dark
       background:
