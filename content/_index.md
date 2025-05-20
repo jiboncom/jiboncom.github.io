@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Javier Boncompte"
+title: ""
 date: 2025-05-20
 type: landing
 
