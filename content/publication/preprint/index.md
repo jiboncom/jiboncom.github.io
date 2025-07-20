@@ -1,8 +1,9 @@
 ---
-title: "Product reformulation with endogenous unobservables: Evidence from the UK Soft Drinks Industry Levy"
+title: "Growing in Foreign Markets: Customer Churning and Bilateral Bargaining"
 authors:
 - Javier Boncompte
-date: "2025-04-07T00:00:00Z"
+- Oscar Perelló
+date: "2025 -04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,18 +18,19 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper studies the role of customer portfolio management in exporters’ growth. Using panel data on Chilean exporters and their foreign buyers (2002–2019), we document new facts on export dynamics. Growing exporters replace old customers with more profitable matches, accounting for nearly 40% of firms’ export growth, while increasing both their average price and price dispersion across customers. We build a dynamic model of exporting with endogenous network formation, managerial costs of customer relationships, and bilateral bargaining that can rationalize these patterns. Each period, firms decide how much to invest in customer search, which customers to retain, and what prices to charge. Additional customers enhance exporters’ sales and negotiating positions, but they also increase managerial costs. Using the model, we characterize firms’ dynamic export strategies and quantify the role of managerial costs in export growth. We then evaluate policies that reduce search and managerial costs, considering both individual and combined reforms, and their interaction with policies that increase competition through market entry.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
-- Product reformulation
+- International Trade
+- Export Dynamics
 
 featured: true
 
 links:
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://drive.google.com/file/d/1Nmmt7nkR7W-zUnxnvy2Zk3qYaYqVvCdh/view
 #- name: Custom Link
   #url: http://example.org
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

@@ -39,7 +39,7 @@ sections:
           - post
         exclude_featured: false
     design:
-      view: citation
+      view: card
   - block: collection
     content:
       title: Work in Progress

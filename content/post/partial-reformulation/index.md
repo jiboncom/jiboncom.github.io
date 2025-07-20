@@ -1,9 +1,9 @@
 ---
 title: "Partially Observed Reformulation and Equilibrium Effects of Corrective Taxes"
 authors:
-- admin
+- Javier Boncompte
 author_notes:
-date: "2015-09-01T00:00:00Z"
+date: "2025-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://jiboncom.github.io/uploads/Boncompte-resume.pdf
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
