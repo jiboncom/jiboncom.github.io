@@ -32,6 +32,16 @@ sections:
           parallax: false
   - block: collection
     content:
+      title: Job Market Paper
+      text: ""
+      filters:
+        folders:
+          - post
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    content:
       title: Work in Progress
       text: ""
       filters:
@@ -43,11 +53,11 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Code
+      title: Software
       filters:
         folders:
           - project
     design:
-      view: article-grid
+      view: compact
       columns: 1
 ---
