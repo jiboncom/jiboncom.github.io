@@ -12,10 +12,8 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'Javier Boncompte | Economist  Economics Job Market Candidate 25/26'
-    twitter: 'jiboncom'
+    description: 'Javier Boncompte | Javier Boncompte is an Economist specializing in Industrial Organization and Applied Econometrics. He is a Economics PhD candidate at the University College London and is currently in the Job Market 2025/26.'
+    og_image: '/sharing.jpg'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
