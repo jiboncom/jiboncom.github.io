@@ -8,6 +8,11 @@ design:
   # Default section spacing
   spacing: "1rem"
 
+marketing:
+  seo:
+    site_type: Person
+    description: 'Javier Boncompte is an Economist specializing in Industrial Organization and Applied Econometrics. He is a Economics PhD candidate at the University College London and is currently in the Job Market 2025/26.'
+
 sections:
   - block: resume-biography-3
     content:
