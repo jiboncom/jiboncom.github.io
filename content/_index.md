@@ -40,14 +40,4 @@ sections:
         exclude_featured: false
     design:
       view: card
-  - block: collection
-    id: talks
-    content:
-      title: Software
-      filters:
-        folders:
-          - project
-    design:
-      view: compact
-      columns: 1
 ---
