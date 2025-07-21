@@ -2,7 +2,7 @@
 title: "Growing in Foreign Markets: Customer Churning and Bilateral Bargaining"
 authors:
 - Javier Boncompte
-- Oscar Perelló
+- Oscar Perello
 date: "2025-04-07T00:00:00Z"
 doi: ""
 
