@@ -45,7 +45,7 @@ sections:
         {{< details summary="See Full Abstract" >}} 
         > Corrective taxes aim to align private choices with social costs but often fall short of reducing these costs. This paper examines the 2018 UK Soft Drinks Industry Levy and finds that its multi-tiered design led to a 22% drop in sugar intake from soft drinks, driven by higher prices and a 40% reduction in products’ sugar content. However, reformulation also affected unobserved product attributes that consumers value highly, such as taste. Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity.
         {{< /details >}}
-        
+
     design:
       columns: '1'
       css_style: ''
@@ -84,7 +84,6 @@ sections:
         
         Python implementation of several Interactive Fixed Effects (IFE) estimators for panel data. Includes methods for both balanced panels (Bai, 2009) and unbalanced panels (Bai et al., 2015; Cui et al., 2022), with a focus on computational efficiency.
 
-        
     design:
       columns: '1'
       css_style: ''
