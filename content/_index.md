@@ -39,7 +39,7 @@ sections:
           - post
         exclude_featured: false
     design:
-      view: card
+      view: list
   - block: collection
     id: talks
     content:
@@ -48,6 +48,6 @@ sections:
         folders:
           - project
     design:
-      view: compact
+      view: list
       columns: 1
 ---
