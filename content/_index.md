@@ -85,7 +85,6 @@ sections:
         
         Python implementation of several Interactive Fixed Effects (IFE) estimators for panel data. Includes methods for both balanced panels (Bai, 2009) and unbalanced panels (Bai et al., 2015; Cui et al., 2022), with a focus on computational efficiency.
 
-
         [**CORE Econ Interactive Lecture on Inflation {{< icon name="hero/arrow-top-right-on-square" >}}**](https://coreecon.github.io/voici/render/inflation.html?)
 
         Interactive lecture on inflation and central banks designed for [CORE Econ{{< icon name="hero/arrow-top-right-on-square" >}}](https://www.core-econ.org/), featuring dynamic visualizations and real-time Q&A powered by Voici; a free, open-source, serverless tool for delivering interactive R and Python simulations to large scale classrooms. Successfully tested with over 80 students simultaneously. 
