@@ -5,8 +5,8 @@
   <span
   id="{{ $id }}"
   class="hidden"
-  >
-  {{ .Inner }} <br />
+  > {{ .Inner | markdownify }}
+  
 </span>
 <a
   onclick="toggleTailwindContent('{{ $id }}', this)"
