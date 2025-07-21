@@ -62,6 +62,8 @@ sections:
         > Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity.
         {{< /toggler >}}
 
+        <hr style="margin: 1rem 0;" />
+
         [**Compatibility Choices of Websites and the Demand for Web Browsers** ](uploads/Boncompte-resume.pdf)
         <br />[[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  *with Giussepe Forte*
         
@@ -82,8 +84,10 @@ sections:
       text: |-
 
         [**PyInteractiveFixedEffects{{< icon name="hero/arrow-top-right-on-square" >}}**](https://github.com/jiboncom/pyInteractiveFixedEffects)
-        
+
         Python implementation of several Interactive Fixed Effects (IFE) estimators for panel data. Includes methods for both balanced panels (Bai, 2009) and unbalanced panels (Bai et al., 2015; Cui et al., 2022), with a focus on computational efficiency.
+
+        <hr style="margin: 1rem 0;" />
 
         [**CORE Econ Interactive Lecture on Inflation {{< icon name="hero/arrow-top-right-on-square" >}}**](https://coreecon.github.io/voici/render/inflation.html?)
 
