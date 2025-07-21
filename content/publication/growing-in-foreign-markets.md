@@ -27,7 +27,7 @@ tags:
 - International Trade
 - Export Dynamics
 
-featured: true
+featured: false
 
 links:
 url_pdf: 'https://drive.google.com/file/d/1Nmmt7nkR7W-zUnxnvy2Zk3qYaYqVvCdh/view'

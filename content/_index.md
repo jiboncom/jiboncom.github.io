@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: CV
+        text: JMP
         url: uploads/Boncompte-resume.pdf
     design:
       css_class: dark
@@ -30,14 +30,47 @@ sections:
           size: cover
           position: center
           parallax: true
-  - block: collection
+  - block: markdown
+    id: jmp
     content:
-      title: Job Market Paper
-      text: ""
-      filters:
-        folders:
-          - post
-        exclude_featured: false
+      title: 'Job Market Paper'
+      subtitle: ''
+      text: |-
+
+        [**Partially Observed Reformulation and Equilibrium Effects of Corrective Taxes** ](uploads/Boncompte-resume.pdf)
+        <br />[[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf) 
+
+        > Corrective taxes aim to align private choices with social costs but often fall short of reducing these costs. This paper examines the 2018 UK Soft Drinks Industry Levy and finds that its multi-tiered design led to a 22% drop in sugar intake from soft drinks, driven by higher prices and a 40% reduction in products’ sugar content... 
+        
+        {{< details summary="See Full Abstract" >}} 
+        > Corrective taxes aim to align private choices with social costs but often fall short of reducing these costs. This paper examines the 2018 UK Soft Drinks Industry Levy and finds that its multi-tiered design led to a 22% drop in sugar intake from soft drinks, driven by higher prices and a 40% reduction in products’ sugar content. However, reformulation also affected unobserved product attributes that consumers value highly, such as taste. Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity.
+        {{< /details >}}
+        
     design:
-      view: compact
+      columns: '1'
+      css_style: ''
+  - block: markdown
+    id: papers
+    content:
+      title: 'Working Papers'
+      subtitle: ''
+      text: |-
+
+        [**Growing in Foreign Markets: Customer Churning and Bilateral Bargaining** ](uploads/Boncompte-resume.pdf)
+        <br />[[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  *with Oscar Perello*
+        
+        {{< details summary="See Full Abstract" >}}
+        > Corrective taxes aim to align private choices with social costs but often fall short of reducing these costs. This paper examines the 2018 UK Soft Drinks Industry Levy and finds that its multi-tiered design led to a 22% drop in sugar intake from soft drinks, driven by higher prices and a 40% reduction in products’ sugar content. However, reformulation also affected unobserved product attributes that consumers value highly, such as taste. Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity.
+        {{< /details >}}
+
+        [**Compatibility Choices of Websites and the Demand for Web Browsers** ](uploads/Boncompte-resume.pdf)
+        <br />[[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  *with Giussepe Forte*
+        
+        {{< details summary="See Full Abstract" >}}
+        > Corrective taxes aim to align private choices with social costs but often fall short of reducing these costs. This paper examines the 2018 UK Soft Drinks Industry Levy and finds that its multi-tiered design led to a 22% drop in sugar intake from soft drinks, driven by higher prices and a 40% reduction in products’ sugar content. However, reformulation also affected unobserved product attributes that consumers value highly, such as taste. Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity.
+        {{< /details >}}
+        
+    design:
+      columns: '1'
+      css_style: ''
 ---
