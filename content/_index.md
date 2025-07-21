@@ -39,5 +39,5 @@ sections:
           - post
         exclude_featured: false
     design:
-      view: card
+      view: compact
 ---
