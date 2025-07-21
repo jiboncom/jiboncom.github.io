@@ -1,0 +1,28 @@
+{{ $id := printf "toggle-%d" (now.UnixNano) }}
+{{ $showText := .Get "show-text" | default "Show Abstract" }}
+{{ $hideText := .Get "hide-text" | default "Hide Abstract" }}
+
+  <span
+  id="{{ $id }}"
+  class="hidden"
+  >
+  {{ .Inner }}
+</span>
+<a
+  onclick="toggleTailwindContent('{{ $id }}', this)"
+>
+{{ $showText }}
+</a>
+
+<script>
+  function toggleTailwindContent(id, btn) {
+    const content = document.getElementById(id);
+    if (content.classList.contains('hidden')) {
+      content.classList.remove('hidden');
+      btn.textContent = '{{ $hideText }}';
+    } else {
+      content.classList.add('hidden');
+      btn.textContent = '{{ $showText }}';
+    }
+  }
+</script>
