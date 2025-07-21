@@ -41,16 +41,6 @@ sections:
     design:
       view: card
   - block: collection
-    content:
-      title: Work in Progress
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
     id: talks
     content:
       title: Software
