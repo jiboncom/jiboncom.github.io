@@ -30,7 +30,7 @@ tags:
 featured: true
 
 links:
-url_pdf: https://drive.google.com/file/d/1Nmmt7nkR7W-zUnxnvy2Zk3qYaYqVvCdh/view
+url_pdf: 'https://drive.google.com/file/d/1Nmmt7nkR7W-zUnxnvy2Zk3qYaYqVvCdh/view'
 #- name: Custom Link
   #url: http://example.org
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'

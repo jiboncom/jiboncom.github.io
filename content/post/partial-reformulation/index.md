@@ -31,7 +31,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://jiboncom.github.io/uploads/Boncompte-resume.pdf
+url_pdf: 'https://jiboncom.github.io/uploads/Boncompte-resume.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
