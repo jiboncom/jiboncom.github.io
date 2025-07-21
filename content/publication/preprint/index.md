@@ -18,10 +18,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: This paper studies the role of customer portfolio management in exporters’ growth. Using panel data on Chilean exporters and their foreign buyers (2002–2019), we document new facts on export dynamics. Growing exporters replace old customers with more profitable matches, accounting for nearly 40% of firms’ export growth, while increasing both their average price and price dispersion across customers. We build a dynamic model of exporting with endogenous network formation, managerial costs of customer relationships, and bilateral bargaining that can rationalize these patterns. Each period, firms decide how much to invest in customer search, which customers to retain, and what prices to charge. Additional customers enhance exporters’ sales and negotiating positions, but they also increase managerial costs. Using the model, we characterize firms’ dynamic export strategies and quantify the role of managerial costs in export growth. We then evaluate policies that reduce search and managerial costs, considering both individual and combined reforms, and their interaction with policies that increase competition through market entry.
+abstract: "This paper studies the role of customer portfolio management in exporters’ growth. Using panel data on Chilean exporters and their foreign buyers (2002–2019), we document new facts on export dynamics. Growing exporters replace old customers with more profitable matches, accounting for nearly 40% of firms’ export growth, while increasing both their average price and price dispersion across customers. We build a dynamic model of exporting with endogenous network formation, managerial costs of customer relationships, and bilateral bargaining that can rationalize these patterns. Each period, firms decide how much to invest in customer search, which customers to retain, and what prices to charge. Additional customers enhance exporters’ sales and negotiating positions, but they also increase managerial costs. Using the model, we characterize firms’ dynamic export strategies and quantify the role of managerial costs in export growth. We then evaluate policies that reduce search and managerial costs, considering both individual and combined reforms, and their interaction with policies that increase competition through market entry."
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: ""
 
 tags:
 - International Trade
