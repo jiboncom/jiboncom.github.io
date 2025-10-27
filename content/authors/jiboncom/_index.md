@@ -68,10 +68,10 @@ languages:
 
 ## Job Market Candidate 2025/26
 
-[{{< icon name="academicons/archive" >}} JMP](https://jiboncom.github.io/uploads/Boncompte-resume.pdf)
+[{{< icon name="academicons/archive" >}} JMP](https://jiboncom.github.io/uploads/boncompte-jmp.pdf)
 | [{{< icon name="hero/inbox-arrow-down" >}} CV](https://jiboncom.github.io/uploads/Boncompte-resume.pdf) 
 | [{{< icon name="hero/envelope" >}} javier.boncompte.19 at ucl.ac.uk](mailto:javier.boncompte.19@ucl.ac.uk) 
 
-PhD candidate at University College London. My research interests lie in Industrial Organization and Applied Economics, with a focus on studying firms behaviour and competition dynamics. I am affiliated with the Centre for Microdata Methods and Practice (CEMMAP) at the Institute for Fiscal Studies (IFS).
+PhD candidate at University College London. My research interests lie in Industrial Organization and Applied Econometrics, with a focus on studying firms behaviour and competition dynamics. I am affiliated with the Centre for Microdata Methods and Practice (CEMMAP) at the Institute for Fiscal Studies (IFS).
 
 My references are: Lars Nesheim (UCL), Joao Granja (UCL), and Pierre Dubois (TSE).
