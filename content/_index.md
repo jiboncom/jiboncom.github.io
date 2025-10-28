@@ -42,7 +42,6 @@ sections:
 
         > How do corrective taxes work when firms can reformulate products to avoid them? I develop an equilibrium model of product reformulation to study product responses to the 2018 UK Soft Drinks Industry Levy, a multi-tiered tax targeting excessive sugar content. The model isolates the role of reformulation by using interactive fixed effects to account for multiple endogenous unobserved product characteristics, allowing counterfactuals that revert products to their pre-reformulation attributes. I find the levy reduced sugar sales by 22% and led firms to reformulate more than one-third of products, cutting average sugar content by 40% while lowering product quality, differentiation and tax liabilities. Reformulation benefits nearly all consumers, with gains concentrated among lower-income households and modest losses at the top. Larger firms reformulate a greater share of their products and protect profits more effectively than smaller ones. Overall, reformulation reduced sugar intake relative to a no-tax baseline but also constrained the tax’s ability to further curb consumption. My results show product responses are first-order for welfare and harm reduction, and that multi-tier taxes leverage them more effectively than the non-tiered taxes commonly applied to sugar-sweetened beverages. 
     #{{< toggler show-text="Show Full Abstract">}}{{< /toggler >}} 
-        
 
     design:
       columns: '1'
@@ -52,7 +51,6 @@ sections:
     content:
       title: 'Working Papers'
       subtitle: ''
-      # [[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  [](uploads/Boncompte-resume.pdf)
       text: |-
 
         **Customer Uptrading, Relational Frictions, and Exporters’ Growth**
@@ -71,8 +69,6 @@ sections:
         {{< toggler >}}
         > Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity. 
         {{< /toggler >}}
-        
-    # [](uploads/Boncompte-resume.pdf)     [[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  
     design:
       columns: '1'
       css_style: ''
