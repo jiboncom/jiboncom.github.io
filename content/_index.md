@@ -40,7 +40,7 @@ sections:
         [**Shaping More Than Prices: Corrective Taxes with Product Reformulation** ](uploads/Boncompte-resume.pdf)
         <br />[[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf) 
 
-        > How do corrective taxes work when firms can reformulate products to avoid them? I develop an equilibrium model of product reformulation to study product responses to the 2018 UK Soft Drinks Industry Levy, a multi-tiered tax targeting excessive sugar content. The model isolates the role of reformulation by accounting for endogenous unobserved product characteristics using interactive fixed effects. This allows aggregate shifts in preferences to be separated from product changes and enables counterfactual simulations in which product characteristics are reverted to their pre-reformulation levels. I find the levy reduced sugar sales by 22% and led firms to reformulate more than one-third of products, cutting average sugar content by 40% while slightly lowering product quality and differentiation. Reformulation reduced tax liabilities, limiting price increases and preserving welfare. Reformulation benefits nearly all consumers, with gains concentrated among lower-income households and modest losses at the top. Larger firms reformulate a greater share of their products and protect profits more effectively than smaller ones. Overall, reformulation reduced sugar intake relative to a no-policy baseline but also constrained the tax’s ability to further curb consumption. My results show how corrective taxes shape firms’ product decisions, with implications for optimal taxation and corrective food policy.
+        > How do corrective taxes work when firms can reformulate products to avoid them? I develop an equilibrium model of product reformulation to study product responses to the 2018 UK Soft Drinks Industry Levy, a multi-tiered tax targeting excessive sugar content. The model isolates the role of reformulation by using interactive fixed effects to account for multiple endogenous unobserved product characteristics, allowing counterfactuals that revert products to their pre-reformulation attributes. I find the levy reduced sugar sales by 22% and led firms to reformulate more than one-third of products, cutting average sugar content by 40% while lowering product quality, differentiation and tax liabilities. Reformulation benefits nearly all consumers, with gains concentrated among lower-income households and modest losses at the top. Larger firms reformulate a greater share of their products and protect profits more effectively than smaller ones. Overall, reformulation reduced sugar intake relative to a no-tax baseline but also constrained the tax’s ability to further curb consumption. My results show product responses are first-order for welfare and harm reduction, and that multi-tier taxes leverage them more effectively than the non-tiered taxes commonly applied to sugar-sweetened beverages. 
     #{{< toggler show-text="Show Full Abstract">}}{{< /toggler >}} 
         
 
@@ -52,26 +52,27 @@ sections:
     content:
       title: 'Working Papers'
       subtitle: ''
+      # [[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  [](uploads/Boncompte-resume.pdf)
       text: |-
 
-        [**Growing in Foreign Markets: Customer Churning and Bilateral Bargaining** ](uploads/Boncompte-resume.pdf)
-        <br />[[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  *with Oscar Perello*
+        **Customer Uptrading, Relational Frictions, and Exporters’ Growth**
+        <br /> *with Oscar Perello*
         
         {{< toggler >}}
-        > Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity.
+        > How do exporters grow their customer networks when maintaining relationships is costly? We study the role of customer churning in exporters’ growth. Using detailed firm-to-firm data from Chilean customs, we show that fast-growing exporters systematically drop buyers that purchase smaller volumes and replace them with large customers, a process we term \textit{Customer Uptrading}. A formal decomposition reveals that uptrading, rather than selling more to existing customers or expanding the number of buyers, is the main driver of exporters’ growth. Exploiting variation in direct flight availability, we find that exporters maintain longer relationships when better connected to their buyers, linking uptrading to the upkeep costs of managing multiple trade relationships. We rationalize these findings with a dynamic model of network formation in which firms engage in costly customer search and actively decide which relationships to keep or sever, taking into account the upkeep costs of their network. The model predicts that more productive firms both search more intensively and replace more customers than less productive ones, highlighting the central role of search in exporters’ growth and also its limits.
         {{< /toggler >}}
 
         <hr style="margin: 1rem 0;" />
 
-        [**Compatibility Choices of Websites and the Demand for Web Browsers** ](uploads/Boncompte-resume.pdf)
-        <br />[[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  *with Giussepe Forte*
+        **The Diffusion of Tracking Technologies and the Online Advertising Market**
+        <br />*with Simeon Duckworth, Giuseppe Forte, and Lars Nesheim*
         
         
         {{< toggler >}}
         > Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity. 
         {{< /toggler >}}
         
-        
+    # [](uploads/Boncompte-resume.pdf)     [[{{< icon name="hero/inbox-arrow-down" >}} Download]](uploads/Boncompte-resume.pdf)  
     design:
       columns: '1'
       css_style: ''
