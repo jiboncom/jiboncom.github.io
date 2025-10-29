@@ -68,7 +68,7 @@ languages:
 
 ## Job Market Candidate 2025/26
 
-[{{< icon name="academicons/archive" >}} JMP](https://jiboncom.github.io/uploads/boncompte-jmp.pdf)
+[{{< icon name="academicons/archive" >}} JMP](https://jiboncom.github.io/boncompte-jmp.pdf)
 | [{{< icon name="hero/inbox-arrow-down" >}} CV](https://jiboncom.github.io/uploads/Boncompte-resume.pdf) 
 | [{{< icon name="hero/envelope" >}} javier.boncompte.19 at ucl.ac.uk](mailto:javier.boncompte.19@ucl.ac.uk) 
 
