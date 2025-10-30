@@ -57,7 +57,7 @@ sections:
         <br /> *with Oscar Perello*
         
         {{< toggler >}}
-        > How do exporters grow their customer networks when maintaining relationships is costly? We study the role of customer churning in exporters’ growth. Using detailed firm-to-firm data from Chilean customs, we show that fast-growing exporters systematically drop buyers that purchase smaller volumes and replace them with large customers, a process we term \textit{Customer Uptrading}. A formal decomposition reveals that uptrading, rather than selling more to existing customers or expanding the number of buyers, is the main driver of exporters’ growth. Exploiting variation in direct flight availability, we find that exporters maintain longer relationships when better connected to their buyers, linking uptrading to the upkeep costs of managing multiple trade relationships. We rationalize these findings with a dynamic model of network formation in which firms engage in costly customer search and actively decide which relationships to keep or sever, taking into account the upkeep costs of their network. The model predicts that more productive firms both search more intensively and replace more customers than less productive ones, highlighting the central role of search in exporters’ growth and also its limits.
+        > How do exporters grow their customer networks when maintaining relationships is costly? We study the role of customer churning in exporters’ growth. Using detailed firm-to-firm data from Chilean customs, we show that fast-growing exporters systematically drop buyers that purchase smaller volumes and replace them with large customers, a process we term *Customer Uptrading*. A formal decomposition reveals that uptrading, rather than selling more to existing customers or expanding the number of buyers, is the main driver of exporters’ growth. Exploiting variation in direct flight availability, we find that exporters maintain longer relationships when better connected to their buyers, linking uptrading to the upkeep costs of managing multiple trade relationships. We rationalize these findings with a dynamic model of network formation in which firms engage in costly customer search and actively decide which relationships to keep or sever, taking into account the upkeep costs of their network. The model predicts that more productive firms both search more intensively and replace more customers than less productive ones, highlighting the central role of search in exporters’ growth and also its limits.
         {{< /toggler >}}
 
         <hr style="margin: 1rem 0;" />
@@ -66,9 +66,6 @@ sections:
         <br />*with Simeon Duckworth, Giuseppe Forte, and Lars Nesheim*
         
         
-        {{< toggler >}}
-        > Using a factor structure within an equilibrium model of product reformulation, I capture the endogenous link between sugar content and unobserved characteristics and estimate that reformulation prevented an additional 10% price increase, significantly reducing the tax burden on consumers, but at the cost of lower product quality. Smaller firms were more adversely affected, while larger firms adopted new technologies and reformulated a greater share of their portfolios. These results underscore how effective tax design can promote innovation and reduce the harm potential of products, lessening the need for further corrective measures and aligning economic efficiency with equity. 
-        {{< /toggler >}}
     design:
       columns: '1'
       css_style: ''
