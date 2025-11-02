@@ -53,8 +53,8 @@ sections:
       subtitle: ''
       text: |-
 
-        [****Customer Uptrading, Relational Frictions, and Exporters’ Growth**** ](BP-exporters.pdf)
-        <br /> *with Oscar Perello*
+        [**Customer Uptrading, Relational Frictions, and Exporters’ Growth** ](BP-exporters.pdf)
+        <br /> [[{{< icon name="hero/inbox-arrow-down" >}} Download]](BP-exporters.pdf) *with Oscar Perello*
         
         {{< toggler >}}
         > How do exporters grow their customer networks when maintaining relationships is costly? We study the role of customer churning in exporters’ growth. Using detailed firm-to-firm data from Chilean customs, we show that fast-growing exporters systematically drop buyers that purchase smaller volumes and replace them with large customers, a process we term *Customer Uptrading*. A formal decomposition reveals that uptrading, rather than selling more to existing customers or expanding the number of buyers, is the main driver of exporters’ growth. Exploiting variation in direct flight availability, we find that exporters maintain longer relationships when better connected to their buyers, linking uptrading to the upkeep costs of managing multiple trade relationships. We rationalize these findings with a dynamic model of network formation in which firms engage in costly customer search and actively decide which relationships to keep or sever, taking into account the upkeep costs of their network. The model predicts that more productive firms both search more intensively and replace more customers than less productive ones, highlighting the central role of search in exporters’ growth and also its limits.
