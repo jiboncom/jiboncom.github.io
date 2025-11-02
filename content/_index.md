@@ -53,7 +53,7 @@ sections:
       subtitle: ''
       text: |-
 
-        **Customer Uptrading, Relational Frictions, and Exporters’ Growth**
+        [****Customer Uptrading, Relational Frictions, and Exporters’ Growth**** ](BP-exporters.pdf)
         <br /> *with Oscar Perello*
         
         {{< toggler >}}
